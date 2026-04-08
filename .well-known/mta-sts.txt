@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: tayab.thinkpool.net
+mx: mx1.mxfilter.net
 max_age: 86400
