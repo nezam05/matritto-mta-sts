@@ -1,4 +1,7 @@
 version: STSv1
 mode: testing
 mx: mx1.mxfilter.net
+mx: mx2.mxfilter.net
+mx: mx3.mxfilter.net
+mx: mx4.mxfilter.net
 max_age: 86400
